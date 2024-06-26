@@ -1,0 +1,146 @@
+#ima
+{
+    height: 820px;
+    background-image: url(./1000_F_552928102_GwDAGdh9gzNjGfFhwO88gkEQmD6Dr8Zb.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #ffa07a;
+    color: black;
+    border: black solid 2px;
+}
+a
+{
+    text-decoration: none;
+    text-emphasis: none;
+}
+#ima h1
+{
+    text-align: center;
+    color: #ffffff;
+    font-size: 4em;
+    font-weight: 700;
+}
+#ima h2
+{
+    color: #ffffff;
+    text-align: center;
+}
+body 
+{
+  margin : 0px;
+}
+
+#k
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    background-color: rgba(0, 0, 0, 0.829);
+    padding: 0%;
+    color: aliceblue; 
+}
+#k > div
+{
+    width: 50%;
+}
+.a
+{
+    font-size: larger;
+    font-family: Algerian;
+
+}
+.a > h2
+{
+    text-align: center;
+}
+.u
+{
+    font-size: larger;
+    margin-left: 0.3px;
+    font-family: Algerian;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: flex;
+}
+
+#u2 {
+    margin-left: 3rem;
+}
+
+.u >h2
+{
+    text-align: center;
+}
+.l >h2
+{
+    text-align: center;
+}
+.l
+{
+    font-size: larger;
+    font-family: Algerian;
+
+}
+#ko
+{
+    font-size: larger;
+    font-family: Algerian;
+}
+
+#projects 
+{
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: #9932cc;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: ghostwhite;
+}
+#projects > h2
+{
+    text-align: center;
+    font-size: x-large;
+    color: gold;
+    font-family: Algerian;
+}  
+
+#achi
+{
+    background-color: #ffa07a;
+    padding-top: 2px;
+}
+#achi > h2
+{
+    text-align: center;
+    font-size: x-large;
+    font-family: Algerian;
+    color: blue;
+}
+.avk > ul
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+
+footer
+{
+    background-color: aqua;
+    font-size: larger;
+    text-align: center;
+}
